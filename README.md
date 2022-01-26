@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding non useful stuff
 - 🌱 I’m currently learning javasacript i guess
 - 💞️ I’m looking to collaborate on any project that can make me rich 🤑
-- 📫 How to reach me: @PALTEASCAUSA on twitter
+- 📫 How to reach me: @elchuchasx on twitter
 
 <!---
 AndrePyan/AndrePyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
