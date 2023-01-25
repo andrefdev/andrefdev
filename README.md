@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndrePyan
+- 👋 Hi, I’m @andrefdev
 - 👀 I’m interested in coding non useful stuff
 - 🌱 I’m currently learning javasacript i guess
 - 💞️ I’m looking to collaborate on any project that can make me rich 🤑
