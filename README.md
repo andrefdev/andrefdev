@@ -8,7 +8,7 @@
 AndrePyan/AndrePyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![github-header-image](https://user-images.githubusercontent.com/53733092/172211221-eeb91d81-b3fd-47dc-b862-e781876f2a8f.png)
+<!--![github-header-image](https://user-images.githubusercontent.com/53733092/172211221-eeb91d81-b3fd-47dc-b862-e781876f2a8f.png)-->
 
 
 <p align="center">
@@ -22,12 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **FrontEnd development and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/satnaing](https://github.com/satnaing)
+- 👨‍💻 All of my projects are available at [https://github.com/andrefdev](https://github.com/andrefdev)
 
 - 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
 
 
-- 🚀 My website 👉🏻 <a href="https://andreforsyth.com" target="blank">[https://satnaing.dev](https://andreforsyth.com)</a>
+- 🚀 My website 👉🏻 <a href="https://andreforsyth.com" target="blank">[https://github.com/andrefdev](https://andreforsyth.com)</a>
 
 - 📰 My blog 👉🏻 <a href="https://andreforsyth.com/blog" target="blank">https://andreforsyth.com/blog</a>
 
@@ -58,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 </p>
 
-![SatNaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefdev&theme=tokyonight)
+![andrefdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefdev&theme=tokyonight)
