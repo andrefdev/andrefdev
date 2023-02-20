@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/andrefdev](https://github.com/andrefdev)
 
-- 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
+- 💬 Ask me about **React, NodeJS, Express, Firebase, Astro, C++.**
 
 
-- 🚀 My website 👉🏻 <a href="https://andreforsyth.com" target="blank">[https://github.com/andrefdev](https://andreforsyth.com)</a>
+- 🚀 My website 👉🏻 <a href="https://andreforsyth.com" target="blank">https://andreforsyth.com</a>
 
 - 📰 My blog 👉🏻 <a href="https://andreforsyth.com/blog" target="blank">https://andreforsyth.com/blog</a>
 
