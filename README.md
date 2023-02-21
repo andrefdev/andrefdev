@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="PWA">-->
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+<img src="https://img.shields.io/badge/++-0000FF.svg?style=for-the-badge&logo=C&logoColor=white" alt"cpp">
 </p>
 
 ![andrefdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefdev&theme=tokyonight)
