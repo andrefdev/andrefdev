@@ -19,9 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Una guía completa para entender la Programación Orientada a Objetos](https://andreforsyth.com/posts/una-guia-completa-para-entender-la-programacion-orientada-a-objetos/)
-- [La Importancia del Pan con Pollo en la Comunidad LGBTQ](https://andreforsyth.com/posts/la-importancia-del-pan-con-pollo-en-la-comunidad-lgbtq/)
-- [Cómo funciona ChatGPT: la IA de OpenAI que simula conversaciones humanas](https://andreforsyth.com/posts/como-funciona-chat-gpt/)
+- [Una guía completa para entender la Programación Orientada a Objetos](https://andreforsyth.com/blog/posts/una-guia-completa-para-entender-la-programacion-orientada-a-objetos/)
+- [La Importancia del Pan con Pollo en la Comunidad LGBTQ](https://andreforsyth.com/blog/posts/la-importancia-del-pan-con-pollo-en-la-comunidad-lgbtq/)
+- [Cómo funciona ChatGPT: la IA de OpenAI que simula conversaciones humanas](https://andreforsyth.com/blog/posts/como-funciona-chat-gpt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
