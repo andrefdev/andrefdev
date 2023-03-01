@@ -21,7 +21,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [How i maked a TODO app in electron](https://andreforsyth.com/blog/posts/how-i-maked-a-todo-app-in-electron/)
 - [Una guía completa para entender la Programación Orientada a Objetos](https://andreforsyth.com/blog/posts/una-guia-completa-para-entender-la-programacion-orientada-a-objetos/)
-- [La Importancia del Pan con Pollo en la Comunidad LGBTQ](https://andreforsyth.com/blog/posts/la-importancia-del-pan-con-pollo-en-la-comunidad-lgbtq/)
 - [Cómo funciona ChatGPT: la IA de OpenAI que simula conversaciones humanas](https://andreforsyth.com/blog/posts/como-funciona-chat-gpt/)
 <!-- BLOG-POST-LIST:END -->
 
