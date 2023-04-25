@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Una guía completa para entender la Programación Orientada a Objetos](https://andreforsyth.com/blog/posts/guia-programacion-orientada-a-objetos/)
 - [Una guía completa para entender la Programación Orientada a Objetos](https://andreforsyth.com/blog/posts/una-guia-completa-para-entender-la-programacion-orientada-a-objetos/)
 - [Cómo funciona ChatGPT: la IA de OpenAI que simula conversaciones humanas](https://andreforsyth.com/blog/posts/como-funciona-chat-gpt/)
 <!-- BLOG-POST-LIST:END -->
