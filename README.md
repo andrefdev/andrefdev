@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 🔭 I’m currently working on Codemils<br>🌱 I’m currently learning React<br>📝 I regularly write articles on https://andreforsyth.com/blog/<br>📫 How to reach me contact@andreforsyth.com
 
 
