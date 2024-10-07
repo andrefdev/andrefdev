@@ -53,7 +53,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/95uzmm"  />
+<img align="right" height="150" src="https://i.imgflip.com/95v0mn.jpg"  />
 
 ###
 
