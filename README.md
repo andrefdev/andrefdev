@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andrefdev/andrefdev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/andrefdev/profile/output/snake.svg" alt="Snake animation" />
 
 ###
 
